@@ -1,9 +1,15 @@
 package dk.cphbusiness.masterdetailtemplate
 
+import android.content.Context
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+
+fun Context.toast(message: String) {
+    Toast.makeText(this, message, Toast.LENGTH_LONG).show()
+    }
 
 class MainActivity : AppCompatActivity() {
 
@@ -13,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         }
 
     fun buttonPressed(view: View) {
-        Toast.makeText(this, "Pressed", Toast.LENGTH_LONG).show()
+        startActivity(Intent(this, PeopleActivity::class.java))
         }
 
     }

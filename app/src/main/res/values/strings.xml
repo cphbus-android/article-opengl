@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">MasterDetailTemplate</string>
     <string name="peopleButtonText">Go to people</string>
+    <string name="haveBirthdayButtonText">Press to have birthday</string>
+    <string name="okButtonText">Save changes</string>
 </resources>
