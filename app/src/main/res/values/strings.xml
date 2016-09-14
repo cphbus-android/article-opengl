@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MasterDetailTemplate</string>
+    <string name="peopleButtonText">Go to people</string>
 </resources>
