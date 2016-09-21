@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
 //            val peopleJson = URL("http://10.50.162.14:4711/Nice/person").readText()
 //            toast(peopleJson)
             async() {
-                PersonRequest().run()
+                PersonRequest(ipText.text.toString()).run()
                 uiThread { toast("... done") }
                 }
             }

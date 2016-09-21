@@ -23,13 +23,27 @@
         android:onClick="buttonPressed"
         />
 
-    <Button
-        android:id="@+id/restButton"
-        android:text="@string/restButtonText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="buttonPressed"
-        />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/ipText"
+            android:hint="IP address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text|number"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/restButton"
+            android:text="@string/restButtonText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:onClick="buttonPressed"
+            android:layout_weight="1" />
+    </LinearLayout>
 
 
 </LinearLayout>
