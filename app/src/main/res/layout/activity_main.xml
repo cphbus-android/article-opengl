@@ -23,4 +23,13 @@
         android:onClick="buttonPressed"
         />
 
+    <Button
+        android:id="@+id/restButton"
+        android:text="@string/restButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="buttonPressed"
+        />
+
+
 </LinearLayout>

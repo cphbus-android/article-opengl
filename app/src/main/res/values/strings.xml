@@ -3,4 +3,5 @@
     <string name="peopleButtonText">Go to people</string>
     <string name="haveBirthdayButtonText">Press to have birthday</string>
     <string name="okButtonText">Save changes</string>
+    <string name="restButtonText">Fetch people</string>
 </resources>

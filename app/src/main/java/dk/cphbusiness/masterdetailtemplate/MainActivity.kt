@@ -6,6 +6,10 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_main.*
+import org.jetbrains.anko.async
+import org.jetbrains.anko.uiThread
+import java.net.URL
 
 fun String.times(count: Int) : String {
     var result = this;
@@ -16,7 +20,7 @@ fun String.times(count: Int) : String {
     }
 
 fun Context.toast(message: String) {
-    Toast.makeText(this, message.times(3), Toast.LENGTH_LONG).show()
+    Toast.makeText(this, message, Toast.LENGTH_LONG).show()
     }
 
 class MainActivity : AppCompatActivity() {
@@ -27,7 +31,20 @@ class MainActivity : AppCompatActivity() {
         }
 
     fun buttonPressed(view: View) {
-        startActivity(Intent(this, PeopleActivity::class.java))
+        if (view == peopleButton) {
+            toast("--:-- ")
+            startActivity(Intent(this, PeopleActivity::class.java))
+            }
+        else if (view == restButton) {
+            toast("Fetching data...")
+//            Is NOT allowed!
+//            val peopleJson = URL("http://10.50.162.14:4711/Nice/person").readText()
+//            toast(peopleJson)
+            async() {
+                PersonRequest().run()
+                uiThread { toast("... done") }
+                }
+            }
         }
 
     }

@@ -9,12 +9,15 @@ import kotlinx.android.synthetic.main.activity_people.*
 
 class PeopleActivity : AppCompatActivity() {
 
-    val people = listOf(
-            Person(1, "Kurt", "Hansen", 34),
-            Person(2, "Sonja", "Hansen", 19),
-            Person(3, "Mikkel", "Petersen", 23),
-            Person(4, "Viggo", "Kampmann", 56)
-    )
+    companion object {
+        var people = mutableListOf(
+                Person(1, "Kurt", "Hansen", 34),
+                Person(2, "Sonja", "Hansen", 19),
+                Person(3, "Mikkel", "Petersen", 23),
+                Person(4, "Viggo", "Kampmann", 56)
+            )
+
+        }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
