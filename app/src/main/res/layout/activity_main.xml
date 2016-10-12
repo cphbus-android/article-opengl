@@ -23,6 +23,14 @@
         android:onClick="buttonPressed"
         />
 
+    <Button
+        android:id="@+id/serviceButton"
+        android:text="@string/serviceButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="buttonPressed"
+        />
+
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"

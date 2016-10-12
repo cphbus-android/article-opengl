@@ -14,7 +14,7 @@ class PersonActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_person)
         val person = intent.getSerializableExtra("person") as Person
-        personId.text = person.id.toString()
+        personId.text = person._id.toString()
         personFirstName.setText(person.firstName)
         personLastName.setText(person.lastName)
         personAge.text = person.age.toString()
