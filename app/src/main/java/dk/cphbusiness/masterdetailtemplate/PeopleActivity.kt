@@ -37,7 +37,7 @@ class PeopleActivity : AppCompatActivity() {
 
     private fun updatePerson(person: Person) {
         for (p in people) {
-            if (p.id == person.id) {
+            if (p._id == person._id) {
                 p.firstName = person.firstName
                 p.lastName = person.lastName
                 p.age = person.age
