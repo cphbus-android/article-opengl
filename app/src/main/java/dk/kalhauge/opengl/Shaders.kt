@@ -7,7 +7,7 @@ abstract class Shader(val type: Int, val code: Code) {
     init {
         handle = GLES20.glCreateShader(type)
         GLES20.glShaderSource(handle, code.raw)
-        check("Shader #${handle} source >>${code.raw}<<")
+        check("Shader #${handle} source:\n${code.raw}\n")
         GLES20.glCompileShader(handle)
         check("Shader compile")
         }

@@ -2,17 +2,17 @@ package dk.cphbusiness.opengl
 
 import android.opengl.GLES20
 import android.opengl.GLSurfaceView
-import android.opengl.Matrix
 import dk.kalhauge.opengl.*
 import javax.microedition.khronos.egl.EGLConfig
 import javax.microedition.khronos.opengles.GL10
 
 class SmartGLRenderer : GLSurfaceView.Renderer {
-    var angle = 0f
+    var xAngle = 0f
+    var yAngle = 0f
 //    private lateinit var triangle: Triangle
 //    private lateinit var square: SmartSquare
     private lateinit var cube: Cube
-//    private lateinit  var colorTriangle: ColorTriangle
+    private lateinit  var colorTriangle: ColorTriangle
 
     private var projection = Matrix4()
     private var surface = Surface(0, 0)
@@ -22,7 +22,7 @@ class SmartGLRenderer : GLSurfaceView.Renderer {
 //        triangle = Triangle()
 //        square = SmartSquare()
         cube = Cube()
-//        colorTriangle = ColorTriangle()
+        colorTriangle = ColorTriangle()
         }
 
     override fun onDrawFrame(gl: GL10?) {
@@ -32,9 +32,9 @@ class SmartGLRenderer : GLSurfaceView.Renderer {
         val mvp = projection*view
 //        square.draw(mvp)
 //
-//        triangle.draw(mvp.rotated(angle, Vector3.zAxis))
-        cube.draw(mvp.rotated(angle, Vector3.yAxis))
-//        colorTriangle.draw(mvp.rotated(angle, Vector3.zAxis))
+//        triangle.draw(mvp.rotated(xAngle, Vector3.zAxis))
+        cube.draw(mvp.rotated(xAngle, Vector3.xAxis).rotated(yAngle, Vector3.yAxis))
+        colorTriangle.draw(mvp.translated(2.0f, Vector3.xAxis).rotated(xAngle + yAngle, Vector3.zAxis))
         }
 
     override fun onSurfaceChanged(gl: GL10?, width: Int, height: Int) {
@@ -42,4 +42,4 @@ class SmartGLRenderer : GLSurfaceView.Renderer {
         projection = Matrix4.frustum(-surface.ratio, surface.ratio, -1f, 1f, 1f, 10f)
         }
 
-}
+    }

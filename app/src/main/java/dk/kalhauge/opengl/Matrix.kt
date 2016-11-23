@@ -60,6 +60,12 @@ class Matrix4 {
         return result
         }
 
+    fun translated(distance: Float, axis: Vector3): Matrix4 {
+        val result = copy()
+        Matrix.translateM(result.data, 0, distance*axis.x, distance*axis.y, distance*axis.z)
+        return result
+        }
+
     }
 
 open class Vector4 {

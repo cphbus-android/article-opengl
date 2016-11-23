@@ -24,9 +24,10 @@ class HelloGLSurfaceView(context: Context) : GLSurfaceView(context) {
 
         when (event.action) {
             MotionEvent.ACTION_MOVE -> {
-                val dx = (x - lastX)*(if (x < width/2) -1 else 1)
-                val dy = (y - lastY)*(if (y < height/2) -1 else 1)
-                renderer.angle = renderer.angle + (dx + dy)*TOUCH_SCALE_FACTOR
+                val dx = (x - lastX)
+                val dy = (y - lastY)
+                renderer.yAngle += dx*TOUCH_SCALE_FACTOR
+                renderer.xAngle -= dy*TOUCH_SCALE_FACTOR
                 requestRender()
                 }
             else -> return true
