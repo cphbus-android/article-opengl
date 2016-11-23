@@ -15,7 +15,7 @@ val coordinates = floatArrayOf(
 
 class Triangle {
     val vertices: FloatBuffer
-    val colorParts = floatArrayOf(0.64f, 0.77f, 0.22f, 0.0f)
+    val colorParts = floatArrayOf(0.64f, 0.77f, 0.22f, 1.0f)
 
     private val vertexShaderCode = """
             |uniform mat4 uMVPMatrix;

@@ -7,6 +7,7 @@ import javax.microedition.khronos.egl.EGLConfig
 import javax.microedition.khronos.opengles.GL10
 
 class OpenGLSurfaceView(context: Context) : GLSurfaceView(context), GLSurfaceView.Renderer {
+    private lateinit var triangle: Triangle
 
     init {
         setEGLContextClientVersion(2)
@@ -17,6 +18,8 @@ class OpenGLSurfaceView(context: Context) : GLSurfaceView(context), GLSurfaceVie
 
     override fun onDrawFrame(unused: GL10?) {
         GLES20.glClear(GLES20.GL_COLOR_BUFFER_BIT or GLES20.GL_DEPTH_BUFFER_BIT)
+
+        triangle.draw()
         }
 
     override fun onSurfaceChanged(unused: GL10?, width: Int, height: Int) {
@@ -26,6 +29,7 @@ class OpenGLSurfaceView(context: Context) : GLSurfaceView(context), GLSurfaceVie
     override fun onSurfaceCreated(unused: GL10?, config: EGLConfig?) {
         //                  red,  green, blue, alpha
         GLES20.glClearColor(0.7f, 0.0f,  0.0f, 1.0f)
+        triangle = Triangle()
         }
 
     }
