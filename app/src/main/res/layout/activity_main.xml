@@ -31,6 +31,22 @@
         android:onClick="buttonPressed"
         />
 
+    <Button
+        android:id="@+id/openGLButton"
+        android:text="@string/openGLButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="buttonPressed"
+        />
+
+    <Button
+        android:id="@+id/openGLESButton"
+        android:text="@string/openGLESButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="buttonPressed"
+        />
+
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"

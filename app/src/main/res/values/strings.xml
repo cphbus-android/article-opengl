@@ -2,7 +2,13 @@
     <string name="app_name">MasterDetailTemplate</string>
     <string name="peopleButtonText">Go to people</string>
     <string name="serviceButtonText">Go to service</string>
+    <string name="openGLButtonText">Go to Graphics</string>
+    <string name="openGLESButtonText">Go to Graphics with ES</string>
     <string name="haveBirthdayButtonText">Press to have birthday</string>
     <string name="okButtonText">Save changes</string>
     <string name="restButtonText">Fetch people</string>
+
+    <string name="title_activity_open_gl">OpenGLActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>

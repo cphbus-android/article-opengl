@@ -7,6 +7,8 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.Toast
+import dk.cphbusiness.opengl.OpenGLES20Activity
+import dk.cphbusiness.opengles.OpenGLActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.async
 import org.jetbrains.anko.uiThread
@@ -29,7 +31,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val b = findViewById(R.id.peopleButton) as Button
+        //val b = findViewById(R.id.peopleButton) as Button
         }
 
     fun buttonPressed(view: View) {
@@ -42,6 +44,14 @@ class MainActivity : AppCompatActivity() {
                 toast("going to service activity")
                 startActivity(Intent(this, ServiceStartActivity::class.java))
                 }
+            openGLButton -> {
+                toast("opening graphics activity")
+                startActivity(Intent(this, OpenGLES20Activity::class.java))
+                }
+            openGLESButton -> {
+                toast("opening graphics ES activity")
+                startActivity(Intent(this, OpenGLActivity::class.java))
+            }
             else -> {
                 toast("Fetching data...")
 //            Is NOT allowed!

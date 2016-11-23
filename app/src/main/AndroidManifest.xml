@@ -4,6 +4,10 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
     <application
         android:name=".App"
         android:allowBackup="true"
@@ -21,6 +25,7 @@
         <activity android:name=".PeopleActivity" />
         <activity android:name=".PersonActivity" />
         <activity android:name=".ServiceStartActivity" />
+        <activity android:name="dk.cphbusiness.opengl.OpenGLES20Activity" />
 
         <service
             android:name=".ExampleIntentService"
@@ -30,7 +35,12 @@
             android:enabled="true"
             android:exported="false" />
 
-        <activity android:name=".ServiceEndActivity"></activity>
+        <activity android:name=".ServiceEndActivity" />
+        <activity
+            android:name="dk.cphbusiness.opengles.OpenGLActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_open_gl"
+            android:theme="@style/FullscreenTheme"></activity>
     </application>
 
 </manifest>
