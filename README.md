@@ -28,5 +28,8 @@
 
 To create an openGL activity, first add the feature to the `AndroidManifest.xml` file:
 ```xml
-
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
 ```
+Create an empty Activity
