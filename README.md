@@ -36,6 +36,7 @@ To create an openGL activity, first add the feature to the `AndroidManifest.xml`
     android:required="true" />
 ```
 Create an empty (for now) GL surface view class, it should extend the `GLSurfaceView`
+it is important to set the client version `2` and it should match `0x00020000` in the manifest.
 ```kotlin
 import android.opengl.GLSurfaceView
 
