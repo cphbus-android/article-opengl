@@ -35,6 +35,18 @@ To create an openGL activity, first add the feature to the `AndroidManifest.xml`
     android:glEsVersion="0x00020000"
     android:required="true" />
 ```
+Create an empty (for now) GL surface view class, it should extend the `GLSurfaceView`
+```kotlin
+import android.opengl.GLSurfaceView
+
+class OpenGLSurfaceView(context: Context) : GLSurfaceView(context) {
+    init {
+        setEGLContextClientVersion(2)
+        // ...
+        }
+    }
+```
+
 Create an empty Activity
 ```kotlin
 package dk.cphbusiness.opengles
