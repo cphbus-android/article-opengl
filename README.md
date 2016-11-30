@@ -1,28 +1,31 @@
 # Android Features
 
-* Gruppe 1:
-* Gruppe 2:
-* Gruppe 3:
+* Gruppe 1: Location
+  - Ingi
+  - Kristoffer
+  - Magnus
+* Gruppe 2: Kompas
+* Gruppe 3: Content providers
 * Gruppe 4: [Gyroskop and accelerometer](https://github.com/Thug-Lyfe/Gyro-Acc)
   - Marco S. Blum
   - Christian Lind
-* Gruppe 5:
-* Gruppe 6:
-* Gruppe 7:
+* Gruppe 5: Maps
+* Gruppe 6: Network
+* Gruppe 7: SMS
 * Gruppe 8: [Proximity and Database](https://github.com/ElDuderino420/KotlinStuff)
   - David Samuelsen
   - Alexandar Kraunsøe
 
 # Kotlin Features
 
-* Gruppe 1:
-* Gruppe 2:
-* Gruppe 3:
-* Gruppe 4: 
-* Gruppe 5:
-* Gruppe 6:
-* Gruppe 7:
-* Gruppe 8: 
+* Gruppe 1: Extension functions
+* Gruppe ?: Delegated properties
+* Gruppe ?: Operator overloading
+* Gruppe 4: Collections and Ranges
+* Gruppe 5: Lambdas
+* Gruppe 6: Classes and Interfaces
+* Gruppe 7: Properties and Fields
+* Gruppe 8: Type Checks and Casts
 
 # OpenGL
 
