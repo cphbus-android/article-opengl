@@ -35,6 +35,7 @@
   Reference
 * Ovenstående artikler
 * Android/Kotlin-delen af det fælles projekt
+* Anvendte præsentationer (Fronter)
 
 ## Referencer
 * [Kotlin Language Documentation](https://kotlinlang.org/docs/reference/)
@@ -45,6 +46,7 @@
 Til eksamen præsenteres den app, som er udviklet til det fælles projekt. Der er afsat ca. 10 minutter til præsentationen.
 Man forventes, ud over præsentationen af selve app'en i funktion, også at kunne fremvise den bagvedliggende kode.
 Den resterende del af eksaminationen vil være en diskution af koden, både med hensyn til Android og Kotlin features.
+Diskutionen kan også berøre emner fra pensum, som ikke er dækket af projektet. 
 
 Bemærk:
 * De dele af app'en man vil bedømmes på, skal være skrevet i **Kotlin**.
