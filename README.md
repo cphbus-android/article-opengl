@@ -27,6 +27,31 @@
 * Gruppe 7: Properties and Fields
 * Gruppe 8: Type Checks and Casts
 
+# Information omkring Android med Kotlin
+
+## Pensum
+* Kotlin for Android Developers, Antonio Leiva
+  [Leanpub](http://leanpub.com/kotlin-for-android-developers)
+  Reference
+* Ovenstående artikler
+* Android/Kotlin-delen af det fælles projekt
+
+## Referencer
+* [Kotlin Language Documentation](https://kotlinlang.org/docs/reference/)
+* [Introduction to Android](https://developer.android.com/guide/index.html)
+
+## Eksamen
+
+Til eksamen præsenteres den app, som er udviklet til det fælles projekt. Der er afsat ca. 10 minutter til præsentationen.
+Man forventes, ud over præsentationen af selve app'en i funktion, også at kunne fremvise den bagvedliggende kode.
+Den resterende del af eksaminationen vil være en diskution af koden, både med hensyn til Android og Kotlin features.
+
+Bemærk:
+* De dele af app'en man vil bedømmes på, skal være skrevet i **Kotlin**.
+* Da projektet i sin helhel først skal afleveres den 5. januar, er det app'en som den ser ud på eksamensdagen, der præsenteres.
+* Det er frit for at udvikle videre på app'en efter Android/Kotlin eksamen.
+
+
 # OpenGL
 
 To create an openGL activity, first add the feature to the `AndroidManifest.xml` file:
