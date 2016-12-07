@@ -56,6 +56,28 @@ Bemærk:
 * Da projektet i sin helhel først skal afleveres den 5. januar, er det app'en som den ser ud på eksamensdagen, der præsenteres.
 * Det er frit for at udvikle videre på app'en efter Android/Kotlin eksamen.
 
+# Eksamensrækkefølge
+Alle, undtagen første eksaminant, skal møde minimum 30 minutter før planlagt tid!
+
+Eksamen er onsdag den 21. december 2016 i lokale 1.01
+
+Start | Slut  | Navn
+:---: | :---: | ---
+08:30 | 09:00 | 
+09:00 | 09:30 |
+09:30 | 10:00 |
+10:00 | 10:30 |
+10:30 | 11:00 |
+11:00 | 11:30 |
+11:30 | 12:00 |
+:---: | :---: | *Frokost*
+12:30 | 13:00 |
+13:00 | 13:30 |
+13:30 | 14:00 |
+14:00 | 14:30 |
+14:30 | 15:00 |
+15:00 | 15:30 |
+15:30 | 16:00 |
 
 # OpenGL
 
