@@ -72,32 +72,37 @@ Start | Slut  | Navn
 11:00 | 11:30 | **Krüger, Mats Ulrik**
 11:30 | 12:00 | **Borum, Christopher**
 ----- | ----- | *Frokost*
-12:30 | 13:00 | Lind, Christian
-13:00 | 13:30 | Carlsen, Pelle Lønberg
-13:30 | 14:00 | Lefort, Steffen
-14:00 | 14:30 | Kraunsøe, Alexandar Johan
-14:30 | 15:00 | Samuelsen, David Mikael Blum
-15:00 | 15:30 | Ryberg, Sebastian
+12:30 | 13:00 | 
+13:00 | 13:30 | 
+13:30 | 14:00 | 
+14:00 | 14:30 | 
+14:30 | 15:00 | 
+15:00 | 15:30 | 
 15:30 | 16:00 | 
 
 ## Onsdag den 21. december 2016
 Start | Slut  | Navn
 :---: | :---: | ---
-08:30 | 09:00 | Blum, Marco Schäffer
-09:00 | 09:30 | 
-09:30 | 10:00 | 
-10:00 | 10:30 | 
-10:30 | 11:00 | 
-11:00 | 11:30 | 
-11:30 | 12:00 | 
+08:30 | 09:00 | Lind, Christian
+09:00 | 09:30 | Carlsen, Pelle Lønberg
+09:30 | 10:00 | Lefort, Steffen
+10:00 | 10:30 | Kraunsøe, Alexandar Johan
+10:30 | 11:00 | Samuelsen, David Mikael Blum
+11:00 | 11:30 | Ryberg, Sebastian
+11:30 | 12:00 | Hansen, Mads Christian
 ----- | ----- | *Frokost*
 12:30 | 13:00 | **Routhe, Ib Henrik**
-13:00 | 13:30 | Carlsen, Pelle Lønberg
-13:30 | 14:00 | Lefort, Steffen
-14:00 | 14:30 | Kraunsøe, Alexandar Johan
-14:30 | 15:00 | Samuelsen, David Mikael Blum
-15:00 | 15:30 | Ryberg, Sebastian
-15:30 | 16:00 | **Skogemann, Thomas**
+13:00 | 13:30 | **Skogemann, Thomas**
+13:30 | 14:00 | Pagh, Kasper Roland
+14:00 | 14:30 | Szigethy, Jonathan
+14:30 | 15:00 | Szkudlarek, Peter Steen
+15:00 | 15:30 | L., R.
+
+```
+Mortensen, Bo Vilstrup
+Redder, Thomas
+Saleh, Haider
+```
 
 # OpenGL
 
