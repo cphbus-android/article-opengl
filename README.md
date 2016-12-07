@@ -33,7 +33,7 @@
 # Information omkring Android med Kotlin
 
 ## Pensum
-* Kotlin for Android Developers, Antonio Leiva
+* &#x1F4D8; Kotlin for Android Developers, Antonio Leiva
   [Leanpub](http://leanpub.com/kotlin-for-android-developers)
   Reference
 * Ovenstående artikler
@@ -57,7 +57,7 @@ Bemærk:
 * Det er frit for at udvikle videre på app'en efter Android/Kotlin eksamen.
 
 # Eksamensrækkefølge
-Alle, undtagen første eksaminant, skal møde minimum 30 minutter før planlagt tid!
+Alle, undtagen første eksaminant, skal møde minimum **_30 minutter_** før planlagt tid!
 
 Eksamen er tirsdag den 20. og onsdag den 21. december 2016 i lokale 1.01
 
