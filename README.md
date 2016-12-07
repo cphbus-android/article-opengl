@@ -59,25 +59,45 @@ Bemærk:
 # Eksamensrækkefølge
 Alle, undtagen første eksaminant, skal møde minimum 30 minutter før planlagt tid!
 
-Eksamen er onsdag den 21. december 2016 i lokale 1.01
+Eksamen er tirsdag den 20. og onsdag den 21. december 2016 i lokale 1.01
 
+## Tirsdag den 20. december 2016
 Start | Slut  | Navn
 :---: | :---: | ---
-08:30 | 09:00 | 
-09:00 | 09:30 |
-09:30 | 10:00 |
-10:00 | 10:30 |
-10:30 | 11:00 |
-11:00 | 11:30 |
-11:30 | 12:00 |
+08:30 | 09:00 | Blum, Marco Schäffer
+09:00 | 09:30 | **Larsen, Magnus Illum Honoré**
+09:30 | 10:00 | **Noga, Kristoffer**
+10:00 | 10:30 | **Müller, Ingi Jansson**
+10:30 | 11:00 | **Nielsen, Kristian Oliver Glumsøe**
+11:00 | 11:30 | **Krüger, Mats Ulrik**
+11:30 | 12:00 | **Borum, Christopher**
 ----- | ----- | *Frokost*
-12:30 | 13:00 |
-13:00 | 13:30 |
-13:30 | 14:00 |
-14:00 | 14:30 |
-14:30 | 15:00 |
-15:00 | 15:30 |
-15:30 | 16:00 |
+12:30 | 13:00 | Lind, Christian
+13:00 | 13:30 | Carlsen, Pelle Lønberg
+13:30 | 14:00 | Lefort, Steffen
+14:00 | 14:30 | Kraunsøe, Alexandar Johan
+14:30 | 15:00 | Samuelsen, David Mikael Blum
+15:00 | 15:30 | Ryberg, Sebastian
+15:30 | 16:00 | 
+
+## Onsdag den 21. december 2016
+Start | Slut  | Navn
+:---: | :---: | ---
+08:30 | 09:00 | Blum, Marco Schäffer
+09:00 | 09:30 | 
+09:30 | 10:00 | 
+10:00 | 10:30 | 
+10:30 | 11:00 | 
+11:00 | 11:30 | 
+11:30 | 12:00 | 
+----- | ----- | *Frokost*
+12:30 | 13:00 | **Routhe, Ib Henrik**
+13:00 | 13:30 | Carlsen, Pelle Lønberg
+13:30 | 14:00 | Lefort, Steffen
+14:00 | 14:30 | Kraunsøe, Alexandar Johan
+14:30 | 15:00 | Samuelsen, David Mikael Blum
+15:00 | 15:30 | Ryberg, Sebastian
+15:30 | 16:00 | **Skogemann, Thomas**
 
 # OpenGL
 
