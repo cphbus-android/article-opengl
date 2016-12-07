@@ -9,7 +9,10 @@
 * Gruppe 4: [Gyroskop and accelerometer](https://github.com/Thug-Lyfe/Gyro-Acc)
   - Marco S. Blum
   - Christian Lind
-* Gruppe 5: Maps
+* Gruppe 5: [Maps](https://github.com/CBorum/kotlin-google-maps)
+  - Christopher Borum
+  - Kristian Nielsen
+  - Mats Krüger
 * Gruppe 6: Network
 * Gruppe 7: SMS
 * Gruppe 8: [Proximity and Database](https://github.com/ElDuderino420/KotlinStuff)
@@ -19,8 +22,8 @@
 # Kotlin Features
 
 * Gruppe 1: Extension functions
-* Gruppe ?: Delegated properties
-* Gruppe ?: Operator overloading
+* Gruppe 2: Delegated properties
+* Gruppe 3: Operator overloading
 * Gruppe 4: Collections and Ranges
 * Gruppe 5: Lambdas
 * Gruppe 6: Classes and Interfaces
