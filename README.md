@@ -14,7 +14,7 @@
   - Kristian Nielsen
   - Mats Krüger
 * Gruppe 6: Network
-* Gruppe 7: SMS
+* Gruppe 7: [Send and receive SMS on android](https://github.com/thadino/sms_recieve)
 * Gruppe 8: [Proximity and Database](https://github.com/ElDuderino420/KotlinStuff)
   - David Samuelsen
   - Alexandar Kraunsøe
