@@ -13,7 +13,9 @@
   - Christopher Borum
   - Kristian Nielsen
   - Mats Krüger
-* Gruppe 6: Network
+* Gruppe 6: [Network](https://github.com/kasperpagh/Android-Kotlin-article)
+  - Pelle Carlsen
+  - Kasper Roland Pagh
 * Gruppe 7: [Send and receive SMS on android](https://github.com/thadino/sms_recieve)
   - Sebastian Ryberg
   - Steffen Lefort
@@ -22,7 +24,6 @@
   - Alexandar Kraunsøe
 
 # Kotlin Features
-
 * Gruppe 1: Extension functions
 * Gruppe 2: Delegated properties
 * Gruppe 3: Operator overloading
