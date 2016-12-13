@@ -1,6 +1,6 @@
 # Android Features
 
-* Gruppe 1: Location
+* Gruppe 1: [Location](https://github.com/ingimuller/LocationAndroidJava)
   - Ingi
   - Kristoffer
   - Magnus
