@@ -29,7 +29,7 @@
 * Gruppe 3: Operator overloading
 * Gruppe 4: Collections and Ranges
 * Gruppe 5: Lambdas
-* Gruppe 6: Classes and Interfaces
+* Gruppe 6: [Classes and Interfaces](https://github.com/kasperpagh/KotlinClassesAndInterfaces/tree/master)
 * Gruppe 7: Properties and Fields
 * Gruppe 8: Type Checks and Casts
 
