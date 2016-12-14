@@ -1,9 +1,9 @@
 # Android Features
 
 * Gruppe 1: [Location](https://github.com/xNoga/LocationKotlin)
-  - Ingi
-  - Kristoffer
-  - Magnus
+  - Ingi Jansson Müller
+  - Kristoffer Noga
+  - Magnus Illum Honoré Larsen 
 * Gruppe 2: Kompas
 * Gruppe 3: Content providers
 * Gruppe 4: [Gyroskop and accelerometer](https://github.com/Thug-Lyfe/Gyro-Acc)
@@ -28,7 +28,7 @@
 * Gruppe 2: Delegated properties
 * Gruppe 3: Operator overloading
 * Gruppe 4: [Collections and Ranges](https://github.com/Thug-Lyfe/kotlinCollections)
-* Gruppe 5: **Lambdas**
+* Gruppe 5: [Lambdas](https://github.com/xNoga/LocationKotlin)
 * Gruppe 6: [Classes and Interfaces](https://github.com/kasperpagh/KotlinClassesAndInterfaces/tree/master)
 * Gruppe 7: [Properties and Fields](https://github.com/thadino/PropertiesAndFields)
 * Gruppe 8: Type Checks and Casts
