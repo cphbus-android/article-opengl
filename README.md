@@ -31,7 +31,7 @@
 * Gruppe 5: [Lambdas](https://github.com/xNoga/LocationKotlin)
 * Gruppe 6: [Classes and Interfaces](https://github.com/kasperpagh/KotlinClassesAndInterfaces/tree/master)
 * Gruppe 7: [Properties and Fields](https://github.com/thadino/PropertiesAndFields)
-* Gruppe 8: Type Checks and Casts
+* Gruppe 8: [Type Checks and Casts](https://github.com/Invictus420/TypeChecksandCastsKotlin)
 
 # Information omkring Android med Kotlin
 
