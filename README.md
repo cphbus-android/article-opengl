@@ -65,7 +65,7 @@ Alle, undtagen første eksaminant, skal møde minimum **_30 minutter_** før pla
 Eksamen er tirsdag den 20. og onsdag den 21. december 2016 i lokale 1.01
 
 ## Tirsdag den 20. december 2016
-Start | Slut  | Navn                                  | 
+Start | Slut  | Navn                                  | Grp
 :---: | :---: | ------------------------------------- | :---:
 08:30 | 09:00 | Blum, Marco Schäffer                  | 4AK
 09:00 | 09:30 | **Larsen, Magnus Illum Honoré**       | 1AK
@@ -76,7 +76,7 @@ Start | Slut  | Navn                                  |
 11:30 | 12:00 | **Borum, Christopher**                | 5AK
 
 ## Onsdag den 21. december 2016
-Start | Slut  | Navn                                  |
+Start | Slut  | Navn                                  | Grp
 :---: | :---: | ------------------------------------- | :---:
 08:30 | 09:00 | Lind, Christian                       | 4AK
 09:00 | 09:30 | Carlsen, Pelle Lønberg                | 6AK
