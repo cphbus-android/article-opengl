@@ -65,33 +65,33 @@ Alle, undtagen første eksaminant, skal møde minimum **_30 minutter_** før pla
 Eksamen er tirsdag den 20. og onsdag den 21. december 2016 i lokale 1.01
 
 ## Tirsdag den 20. december 2016
-Start | Slut  | Navn
-:---: | :---: | ---
-08:30 | 09:00 | Blum, Marco Schäffer
-09:00 | 09:30 | **Larsen, Magnus Illum Honoré**
-09:30 | 10:00 | **Noga, Kristoffer**
-10:00 | 10:30 | **Müller, Ingi Jansson**
-10:30 | 11:00 | **Nielsen, Kristian Oliver Glumsøe**
-11:00 | 11:30 | **Krüger, Mats Ulrik**
-11:30 | 12:00 | **Borum, Christopher**
+Start | Slut  | Navn                                  | 
+:---: | :---: | ------------------------------------- | :---:
+08:30 | 09:00 | Blum, Marco Schäffer                  | 4AK
+09:00 | 09:30 | **Larsen, Magnus Illum Honoré**       | 1AK
+09:30 | 10:00 | **Noga, Kristoffer**                  | 1AK
+10:00 | 10:30 | **Müller, Ingi Jansson**              | 1AK
+10:30 | 11:00 | **Nielsen, Kristian Oliver Glumsøe**  | 5AK
+11:00 | 11:30 | **Krüger, Mats Ulrik**                | 5AK
+11:30 | 12:00 | **Borum, Christopher**                | 5AK
 
 ## Onsdag den 21. december 2016
-Start | Slut  | Navn
-:---: | :---: | ---
-08:30 | 09:00 | Lind, Christian
-09:00 | 09:30 | Carlsen, Pelle Lønberg
-09:30 | 10:00 | Lefort, Steffen
-10:00 | 10:30 | Kraunsøe, Alexandar Johan
-10:30 | 11:00 | Samuelsen, David Mikael Blum
-11:00 | 11:30 | Ryberg, Sebastian
-11:30 | 12:00 | Hansen, Mads Christian
------ | ----- | *Frokost*
-12:30 | 13:00 | **Routhe, Ib Henrik**
-13:00 | 13:30 | **Skogemann, Thomas**
-13:30 | 14:00 | Pagh, Kasper Roland
-14:00 | 14:30 | Szigethy, Jonathan
-14:30 | 15:00 | Szkudlarek, Peter Steen
-15:00 | 15:30 | L., R.
+Start | Slut  | Navn                                  |
+:---: | :---: | ------------------------------------- | :---:
+08:30 | 09:00 | Lind, Christian                       | 4AK
+09:00 | 09:30 | Carlsen, Pelle Lønberg                | 6AK
+09:30 | 10:00 | Lefort, Steffen                       | 7AK
+10:00 | 10:30 | Kraunsøe, Alexandar Johan             | 8AK
+10:30 | 11:00 | Samuelsen, David Mikael Blum          | 8AK
+11:00 | 11:30 | Ryberg, Sebastian                     | 7AK
+11:30 | 12:00 | Hansen, Mads Christian                |
+----- | ----- | *Frokost*                             |
+12:30 | 13:00 | **Routhe, Ib Henrik**                 | 3K
+13:00 | 13:30 | **Skogemann, Thomas**                 | 3K
+13:30 | 14:00 | Pagh, Kasper Roland                   | 6AK
+14:00 | 14:30 | Szigethy, Jonathan                    |
+14:30 | 15:00 | Szkudlarek, Peter Steen               |
+15:00 | 15:30 | L., R.                                |
 
 ```
 Mortensen, Bo Vilstrup
