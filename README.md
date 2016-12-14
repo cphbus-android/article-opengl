@@ -24,7 +24,7 @@
   - Alexandar Kraunsøe
 
 # Kotlin Features
-* Gruppe 1: Extension functions
+* Gruppe 1: [Extension functions](https://github.com/xNoga/ExtensionFunctions)
 * Gruppe 2: Delegated properties
 * Gruppe 3: Operator overloading
 * Gruppe 4: [Collections and Ranges](https://github.com/Thug-Lyfe/kotlinCollections)
