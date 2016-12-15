@@ -5,7 +5,7 @@
   - Kristoffer Noga
   - Magnus Illum Honoré Larsen 
 * Gruppe 2: Kompas
-* Gruppe 3: Content providers
+* Gruppe 3: [Content providers](https://github.com/ibrouthe/ContentProvider)
 * Gruppe 4: [Gyroskop and accelerometer](https://github.com/Thug-Lyfe/Gyro-Acc)
   - Marco S. Blum
   - Christian Lind
