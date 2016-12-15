@@ -26,6 +26,7 @@ class SmartSquare {
             |  }
             """.trimMargin())
 */
+/*
     private val vertexShaderCode = Shader.Code(
             "uniform mat4 uMVPMatrix;"+
             "attribute vec4 vPosition;"+
@@ -40,12 +41,15 @@ class SmartSquare {
             |  gl_FragColor = vColor;
             |  }
             """.trimMargin())
+*/
 
 
 
     init {
+/*
         program.attach(VertexShader(vertexShaderCode))
         program.attach(FragmentShader(fragmentShaderCode))
+*/
         program.link()
         }
 

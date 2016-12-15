@@ -33,6 +33,6 @@ object PersonTable {
     }
 
 
-class Pet(var name: String)
+class Pet(val id: Int, var name: String, val age: Int)
 
 

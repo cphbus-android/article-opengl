@@ -11,6 +11,7 @@ class ColorTriangle {
              0.0f,  0.6f, 0f, 0f, 0f, 1f, 1f
             ))
 
+/*
     private val vertexShaderCode = Shader.Code("""
             |uniform mat4 u_MVPMatrix;
             |attribute vec4 a_Position;
@@ -29,10 +30,11 @@ class ColorTriangle {
             |  gl_FragColor = v_Color;
             |  }
             """.trimMargin())
+*/
 
     init {
-        program.attach(VertexShader(vertexShaderCode))
-        program.attach(FragmentShader(fragmentShaderCode))
+//        program.attach(VertexShader(vertexShaderCode))
+//        program.attach(FragmentShader(fragmentShaderCode))
         program.link()
         }
 

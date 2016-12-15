@@ -16,7 +16,6 @@ fun checkGlError(operation: String) {
 fun loadShader(type: Int, code: String) : Int {
     val shaderHandle = GLES20.glCreateShader(type)
     GLES20.glShaderSource(shaderHandle, code)
-    checkGlError("shader source")
     GLES20.glCompileShader(shaderHandle)
     checkGlError("shader compile")
     return shaderHandle
@@ -66,7 +65,7 @@ class Triangle {
         GLES20.glUseProgram(programHandle)
         // val uMVPMatrixHandle = GLES20.glGetUniformLocation(programHandle, "uMVPMatrix")
         val vPositionHandle = GLES20.glGetAttribLocation(programHandle, "vPosition")
-        val vColorHandle = GLES20.glGetUniformLocation(programHandle, "vColorHandle")
+        val vColorHandle = GLES20.glGetUniformLocation(programHandle, "vColor")
 
         // GLES20.glUniformMatrix4fv(uMVPMatrixHandle, 1, false, mvpMatrix, 0)
 

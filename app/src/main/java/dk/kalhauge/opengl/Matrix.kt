@@ -112,3 +112,14 @@ operator fun Float.times(vector: Vector3): Vector3 {
 operator fun Int.times(vector: Vector3) = this.toFloat().times(vector)
 
 operator fun Vector3.times(factor: Float) = factor.times(this)
+
+
+
+
+
+
+
+
+
+
+

@@ -34,7 +34,10 @@ class SmartGLRenderer : GLSurfaceView.Renderer {
 //
 //        triangle.draw(mvp.rotated(xAngle, Vector3.zAxis))
         cube.draw(mvp.rotated(xAngle, Vector3.xAxis).rotated(yAngle, Vector3.yAxis))
-        colorTriangle.draw(mvp.translated(2.0f, Vector3.xAxis).rotated(xAngle + yAngle, Vector3.zAxis))
+        colorTriangle.draw(
+                mvp
+                        .translated(2.0f, Vector3.xAxis)
+                        .rotated(xAngle + yAngle, Vector3.zAxis))
         }
 
     override fun onSurfaceChanged(gl: GL10?, width: Int, height: Int) {
