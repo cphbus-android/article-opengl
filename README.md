@@ -84,19 +84,18 @@ Start | Slut  | Navn                                  | Grp
 10:00 | 10:30 | Kraunsøe, Alexandar Johan             | 8AK
 10:30 | 11:00 | Samuelsen, David Mikael Blum          | 8AK
 11:00 | 11:30 | Ryberg, Sebastian                     | 7AK
-11:30 | 12:00 | Hansen, Mads Christian                |
+11:30 | 12:00 | Mortensen, Bo Vilstrup                | 3AK
 ----- | ----- | *Frokost*                             |
-12:30 | 13:00 | **Routhe, Ib Henrik**                 | 3K
-13:00 | 13:30 | **Skogemann, Thomas**                 | 3K
+12:30 | 13:00 | **Routhe, Ib Henrik**                 | 3AK
+13:00 | 13:30 | **Skogemann, Thomas**                 | 3AK
 13:30 | 14:00 | Pagh, Kasper Roland                   | 6AK
-14:00 | 14:30 | Szigethy, Jonathan                    |
-14:30 | 15:00 | Szkudlarek, Peter Steen               |
-15:00 | 15:30 | L., R.                                |
-
 ```
-Mortensen, Bo Vilstrup
+Szigethy, Jonathan
 Redder, Thomas
 Saleh, Haider
+Szkudlarek, Peter Steen
+L., R.
+Michael R.
 ```
 
 # OpenGL
