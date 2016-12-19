@@ -29,7 +29,7 @@
 # Kotlin Features
 * Gruppe 1: [Extension functions](https://github.com/xNoga/ExtensionFunctions)
 * Gruppe 2: Delegated properties
-* Gruppe 3: Operator overloading
+* Gruppe 3: [Operator overloading](https://github.com/TSkogemann/operationOverload)
 * Gruppe 4: [Collections and Ranges](https://github.com/Thug-Lyfe/kotlinCollections)
 * Gruppe 5: [Lambdas](https://github.com/xNoga/LocationKotlin)
 * Gruppe 6: [Classes and Interfaces](https://github.com/kasperpagh/KotlinClassesAndInterfaces/tree/master)
