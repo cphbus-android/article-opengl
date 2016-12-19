@@ -92,7 +92,7 @@ Start | Slut  | Navn                                  | Grp
 12:30 | 13:00 | **Routhe, Ib Henrik**                 | 3AK
 13:00 | 13:30 | **Skogemann, Thomas**                 | 3AK
 13:30 | 14:00 | Pagh, Kasper Roland                   | 6AK
-14:00 | 14:30 | Sven Thorhus Holmager                 | ReX
+14:00 | 14:30 | Holmager, Sven Thorhus                | ReX
 ```
 Szigethy, Jonathan
 Redder, Thomas
