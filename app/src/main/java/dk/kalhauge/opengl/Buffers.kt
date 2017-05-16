@@ -11,7 +11,9 @@ class Vertices(data: FloatArray) {
     val buffer: FloatBuffer
 
     init {
-        val bytes = ByteBuffer.allocateDirect(4*data.size).order(ByteOrder.nativeOrder())
+        val bytes = ByteBuffer
+            .allocateDirect(4*data.size)
+            .order(ByteOrder.nativeOrder())
         buffer = bytes.asFloatBuffer().put(data)
         buffer.position(0)
         }
@@ -22,7 +24,9 @@ class DrawList(val data: ShortArray) {
     val buffer: ShortBuffer
 
     init {
-        val bytes = ByteBuffer.allocateDirect(2*data.size).order(ByteOrder.nativeOrder())
+        val bytes = ByteBuffer
+            .allocateDirect(2*data.size)
+            .order(ByteOrder.nativeOrder())
         buffer = bytes.asShortBuffer().put(data)
         buffer.position(0)
         }

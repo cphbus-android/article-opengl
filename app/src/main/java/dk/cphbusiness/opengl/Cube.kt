@@ -23,25 +23,8 @@ class Cube {
             7, 6, 2, 7, 2, 3
             ))
     val color = Vector4.color(blue = 0.7f, red = 0.7f)
-/*
-    private val vertexShaderCode = Shader.Code("""
-            |uniform mat4 uMVPMatrix;
-            |attribute vec4 vPosition;
-            |void main() {
-            |  gl_Position = uMVPMatrix * vPosition;
-            |  }
-            """.trimMargin())
-    private val fragmentShaderCode = Shader.Code("""
-            |precision mediump float;
-            |uniform vec4 vColor;
-            |void main() {
-            |  gl_FragColor = vColor;
-            |  }
-            """.trimMargin())
-*/
+
     init {
-//        program.attach(VertexShader(vertexShaderCode))
-//        program.attach(FragmentShader(fragmentShaderCode))
         program.link()
         }
 
